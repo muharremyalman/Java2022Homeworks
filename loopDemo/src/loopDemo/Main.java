@@ -10,12 +10,24 @@ public class Main {
 		System.out.println("For Döngüsü Bitti");
 		
 		int i = 1;
+		
 		//While
 		while(i<10) {
 			System.out.println(i);
 			i++; // i+=2 tek sayıları yazdırırdım. 1den 9a kadar sayar 
 		}
 			System.out.println("While Döngüsü Bitti");
+		
+			//Do-While
+			int j = 100;
+			do {
+				
+					System.out.println(j);
+					j+=2; 
+					
+				}while(j<10);
+			System.out.println("While Döngüsü Bitti");
+			//Do- While ile While döngüsü farkı while döngüsünde şart çalışırsa bloğa girer
 	}
 
 }
