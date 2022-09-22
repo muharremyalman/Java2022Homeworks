@@ -31,7 +31,7 @@ public class Main {
 	}
 	
 	public static void mesajVer(String mesaj) { //parametreli blog
-		System.out.println(mesaj); //mesaj 
+		System.out.println(mesaj); 
 	}
 
 }
