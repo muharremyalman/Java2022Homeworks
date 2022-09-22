@@ -17,3 +17,10 @@ Neden? Kriterlere uygunsa kuponu uygula değilse uygulama şeklinde.
 
 ## Ödev 2
 #### https://www.youtube.com/watch?v=a8Fe2qbnYDM&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=2 oynatma listesinde yer alan 1-23 arasındaki tüm dersler izlenilip uygulandı.
+
+# 2.Hafta
+## Ödev 1
+####  (22 Eylül 2022) 20.00'de discordda bulunulup destek verildi ve sorular soruldu.
+
+## Ödev 2
+#### https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8 oynatma listesinde yer alan 24-37 arasındaki tüm dersler izlenilip uygulandı.
